@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning python3
 
 - 📫 How to reach me: 
-mohamed.raafat.abdelkader@gmail.com
-https://www.linkedin.com/in/m-raafat-abdelkader/
+mohamed.raafat.abdelkader@gmail.com            https://www.linkedin.com/in/m-raafat-abdelkader/
 
 
