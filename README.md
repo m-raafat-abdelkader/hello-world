@@ -1,2 +1,9 @@
 # hello-world
-My first project!
+-👋 Hi, I’m Mohamed Raafat
+- 👀 I’m interested in Computer Science Engineering
+- 🌱 I’m currently learning python3
+
+- 📫 How to reach me: 
+mohamed.raafat.abdelkader@gmail.com
+
+
